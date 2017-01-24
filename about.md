@@ -5,8 +5,8 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I am a jack of all trades looking for freelance, contract and permanent work in the field of web development. I am versed in Ruby on Rails, jQuery, JavaScript, SQL, NoSQL, HTML, CSS, LESS, SASS. I most often use Bootstrap because I'm well versed in it and find designing for mobile-first, and making sites responsive to be easier for that.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Besides all things tech, I have intellectual interests in Economics, Government, Social Policy.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+When I'm not working I enjoy composing music, cooking a good meal and generally spending time with loved ones.

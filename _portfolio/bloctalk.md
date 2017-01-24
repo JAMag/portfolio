@@ -1,9 +1,24 @@
 ---
 layout: post
-title: BlocTalk
+title: MoveScraper
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
-short-description: BlocJams for iOS is awesome!
+short-description: MoveScraper is great.
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Scaffolding with Rails
+Configuring Github
+Using the CommandLine
+Installing and using Nokogiri gem
+Installing and using Simple Form
+Installing and using Bootstrap
+Installing and using Font-Awesome
+User Authentication using Devise
+Displaying Flash Messages
+
+Summary
+Explanation
+Problem
+Solution
+Results
+Conclusion

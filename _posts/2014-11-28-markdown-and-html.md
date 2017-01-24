@@ -1,39 +1,15 @@
 ---
 layout: post
-title: Markdown and HTML
+title: Learning Journey
 ---
 
-Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+During the past two years, I have used many different resources to learn web development. I have read books like: Michael Hartl's Ruby on Rails, Marijn Haverbeke's Eloquent Javascript, and an Idiot's Guide to SQL.
 
-Tables have also been extended from Markdown:
+I have used online video tutorial sites like: CodePlace.com, Treehouse.com, Linda.com, CodeSchool.com, RailsCasts.com, and various Youtube tutorials.
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
-Here's an example of an image, which is included using Markdown:
+I have used more static tutorial sites like: sitepoint.com, theodinproject.com, freecodecamp.com.
 
-![Geometric pattern with fading gradient](/img/sample_feature_img_2.png)
+I have gone through the bloc.io online bootcamp full-stack web development course.
 
-Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
-
-{% highlight js %}
-// count to ten
-for (var i = 1; i <= 10; i++) {
-    console.log(i);
-}
-
-// count to twenty
-var j = 0;
-while (j < 20) {
-    j++;
-    console.log(j);
-}
-{% endhighlight %}
-
-Type Theme uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
-
-Alternatively, they can be shown on a new line:
-
-$$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
+And I have used a tutor for months on end. The tutoring time could be as brief as 30minutes a week and as long as two hours per week.
