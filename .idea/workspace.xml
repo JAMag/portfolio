@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c208a8ae-1f0a-49c6-b8f2-6f92ae524ccf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_portfolio/Pinterestclone.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_portfolio/webflow.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_portfolio/blocjams.md" afterPath="$PROJECT_DIR$/_portfolio/moverable.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_portfolio/bloctalk.md" afterPath="$PROJECT_DIR$/_portfolio/movescraper.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon_pencil.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/includes/_header.scss" afterPath="$PROJECT_DIR$/_sass/includes/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.md" afterPath="$PROJECT_DIR$/contact.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons.html" afterPath="$PROJECT_DIR$/_includes/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_portfolio/moviereviewer.md" afterPath="$PROJECT_DIR$/_portfolio/moviereviewer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c208a8ae-1f0a-49c6-b8f2-6f92ae524ccf" name="Default" comment="" />
     <ignored path="portfolio-iro.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -445,7 +429,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="139" y="51" width="1641" height="953" extended-state="0" />
+    <frame x="139" y="51" width="1641" height="953" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
