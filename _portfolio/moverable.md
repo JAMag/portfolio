@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Moverable
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: Moverable is great.
+feature-img: "img/bannerdesign1.jpg"
+thumbnail-path: "//i.ytimg.com/vi/Fdl7GLUJIt0/sddefault.jpg"
+short-description: Main portfolio piece.
 
 ---
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Fdl7GLUJIt0" frameborder="0" allowfullscreen></iframe>
 *bootstrap
 *responsive design
 *elastic search
@@ -52,8 +55,18 @@ Services provided by the site:
 
 
 Summary:
+
 Moverable is the main piece of my portfolio. I designed, and developed it. It is a For Sale By Owner real estate website that uses electronic locks, and scheduling to allow users to view a house when noone is home.
 Explanation:
+
+I conceived, designed and implemented that site with a tutor's guidance. It is a real estate listing site,
+which allows creation of users, listings, comments, appointments and favorites. It allows for purchases
+using Stripe. It is fully responsive through Bootstrap, and so uses your computer or phone camera
+depending on how the site is accessed. Search has been implemented using ThinkingSphinx, and I'm
+currently trying to implement a Zillow-like map search by incorporating the Google Maps API with
+ThinkingSphinx. ActionMailer with SendGrid is being used for notifications. Geolocation is
+implemented using Geocoder. Images are currently being stored by Amazon AWS.
+
 I concieved of Moverable long before I started in web development. It seemed silly that the internet hadn't disrupted the real estate field.
 Problem:
 The problem with disrupting the real estate market is that although much of the industry is simply information based, and therefore easily solveable by websites and apps, Real Estate agents also serve a gatekeeping and security function. However, those functions come at an extreme price and are now redundant due to the internet of things: electronic locks, sensors, cameras and smart phones.
@@ -63,3 +76,5 @@ Results:
 My first use of an outside API is with Lockitron's electronic locks. This was a simpler process than I thought it would be. My next issue was how to get photographic evidence that the person entering the home is who is signed up for the site. This is solved through the use of camera phones, payments and geolocation of that phone.
 Conclusion:
 The site is currently live, for portfolio purposes. But it is still a work in progress. Creating value for buyers is now the main question the site and business has to solve.
+
+View it at: www.moverable.com !

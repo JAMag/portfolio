@@ -1,11 +1,13 @@
 ---
 layout: post
 title: MoveScraper
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
-short-description: MoveScraper is great.
+feature-img:  "img/bannerdesign1.jpg"
+thumbnail-path: "//i.ytimg.com/vi/nNsowIhk4bQ/sddefault.jpg"
+short-description: Webscraping craigslist.
 
 ---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nNsowIhk4bQ" frameborder="0" allowfullscreen></iframe>
 Scaffolding with Rails
 Configuring Github
 Using the CommandLine

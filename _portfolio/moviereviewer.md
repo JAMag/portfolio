@@ -1,11 +1,13 @@
 ---
 layout: post
 title: MovieReviewer
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
+feature-img: "img/bannerdesign1.jpg"
+thumbnail-path: "//i.ytimg.com/vi/a5Xf5_IEMs8/sddefault.jpg"
 short-description: Site to review movies
 
 ---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/a5Xf5_IEMs8" frameborder="0" allowfullscreen></iframe>
 Users
 Reviews
 Ratings
@@ -17,6 +19,7 @@ Categories
 Filtering
 Bootstrap
 HAML
+Elastic Search
 
 Summary
 Explanation

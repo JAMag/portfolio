@@ -1,12 +1,8 @@
 <header class="site-header">
 	<div class="branding">
-		{% if site.theme_settings.gravatar %}
+		{% if site.theme_settings.avatar %}
 		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="IMG_20160817_154820114_HDR.jpg" alt=""/>
-		</a>
-		{% elsif site.theme_settings.avatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="/img/{{ site.theme_settings.avatar }}" alt=""/>
+			<img class="avatar" src="{{ site.baseurl }}/img/IMG_20160817_154820114_HDR.jpg" alt=""/>
 		</a>
 		{% endif %}
 		<h1 class="site-title">

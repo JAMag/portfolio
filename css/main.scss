@@ -16,3 +16,60 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+
+.main_portfolio {
+  width: 100%;
+  margin-right:0.5%;
+  margin-left:0.5%;
+  margin-bottom: 0;
+  display: inline-block;
+  p a:hover {
+    @extend %link-hover;
+  }
+};
+
+.contact {
+  text-align: center;
+  border-style: solid;
+  border-radius: 9px;
+  border-color: darkgray;
+  border-width: 2px;
+}
+
+#form_name {
+  text-align: center;
+  border-style: solid;
+  border-radius: 9px;
+  border-color: darkgray;
+  min-width: 33%;
+  border-width: 1px;
+};
+
+#form_email {
+  text-align: center;
+  border-style: solid;
+  border-radius: 9px;
+  border-color: darkgray;
+  min-width: 33%;
+  border-width: 1px;
+};
+
+#form_message {
+  text-align: center;
+  border-style: solid;
+  border-radius: 9px;
+  border-color: darkgray;
+  min-height: 140px;
+  min-width: 66%;
+  border-width: 1px;
+};
+
+#form_button {
+  text-align: center;
+  border-style: solid;
+  border-radius: 9px;
+  border-color: darkgray;
+  min-width: 66%;
+  border-width: 1px;
+};
