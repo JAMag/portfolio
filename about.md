@@ -13,7 +13,7 @@ Outside of work I enjoy composing music, cooking a good meal, hiking with my pup
 
 
 
- I am a career switcher. So I bring passion, and the humility required of one who decides to switch roads
+I am a career switcher. So I bring passion and the humility required of one who decides to switch roads
 mid-journey. I have excellent communication skills and an easy-going nature that helps me enjoy both
 independent and collaborative work. I am still learning and expect to learn new things every day.
 

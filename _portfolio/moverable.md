@@ -9,6 +9,37 @@ short-description: Main portfolio piece.
 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Fdl7GLUJIt0" frameborder="0" allowfullscreen></iframe>
+<br />
+
+
+Summary:
+
+Moverable is the main piece of my portfolio. I designed, and developed it. It is a For Sale By Owner real estate website that uses electronic locks and scheduling to allow users to view a house when nobody is home.
+
+Explanation:
+
+I conceived, designed and implemented that site with a tutor's guidance. It is a real estate listing site,
+which allows creation of users, listings, comments, appointments and favorites. It allows for purchases
+using Stripe. It is fully responsive through Bootstrap, and so uses your computer or phone camera
+depending on how the site is accessed. Search has been implemented using ThinkingSphinx, and I'm
+currently trying to implement a Zillow-like map search by incorporating the Google Maps API with
+ThinkingSphinx. ActionMailer with SendGrid is used for notifications. Geolocation is
+implemented using Geocoder. Images are currently stored by Amazon AWS.
+
+I conceived of Moverable long before I started in web development. It seemed silly that the internet hadn't disrupted the real estate field.
+Problem:
+The problem with disrupting the real estate market is that although much of the industry is simply information based, and therefore easily solvable by websites and apps, Real Estate agents also serve gate-keeping and security functions. However, those functions come at an extreme price and are now redundant due to the internet of things: electronic locks, sensors, cameras and smart phones.
+Solution:
+To replace the gatekeeping function of real estate agents, Moverable uses electronic locks, small fees, and smart-phone cameras to show houses when neither an owner or agent is present. This approach could mean potentially removing 5-7% off the purchase price of a house -- which is tens of thousands of dollars.
+Results:
+My first use of an outside API is with Lockitron's electronic locks. It was a simpler process than I thought it would be. My next issue was how to get photographic evidence that the person entering the home is who is signed up for the site. This is solved through the use of camera phones, payments and geolocation of that phone.
+Conclusion:
+The site is currently live, for portfolio purposes. But it is still a work in progress. Creating value for buyers is now the main question the site and business has to solve.
+
+View it here: <a href="http://www.moverable.com" class="external" target="_blank">Moverable</a>
+<br />
+<br />
+<br />
 *bootstrap
 *responsive design
 *elastic search
@@ -52,29 +83,3 @@ Services provided by the site:
 26) Sticky Nav
 
 
-
-
-Summary:
-
-Moverable is the main piece of my portfolio. I designed, and developed it. It is a For Sale By Owner real estate website that uses electronic locks, and scheduling to allow users to view a house when noone is home.
-Explanation:
-
-I conceived, designed and implemented that site with a tutor's guidance. It is a real estate listing site,
-which allows creation of users, listings, comments, appointments and favorites. It allows for purchases
-using Stripe. It is fully responsive through Bootstrap, and so uses your computer or phone camera
-depending on how the site is accessed. Search has been implemented using ThinkingSphinx, and I'm
-currently trying to implement a Zillow-like map search by incorporating the Google Maps API with
-ThinkingSphinx. ActionMailer with SendGrid is being used for notifications. Geolocation is
-implemented using Geocoder. Images are currently being stored by Amazon AWS.
-
-I concieved of Moverable long before I started in web development. It seemed silly that the internet hadn't disrupted the real estate field.
-Problem:
-The problem with disrupting the real estate market is that although much of the industry is simply information based, and therefore easily solveable by websites and apps, Real Estate agents also serve a gatekeeping and security function. However, those functions come at an extreme price and are now redundant due to the internet of things: electronic locks, sensors, cameras and smart phones.
-Solution:
-To replace the gatekeeping function of real estate agents, Moverable uses electronic locks, small fees, and smart-phone cameras to show houses when neither an owner or agent is present. This could mean potentially removing 5-7% off the purchase price of a house -- which is tens of thousands of dollars.
-Results:
-My first use of an outside API is with Lockitron's electronic locks. This was a simpler process than I thought it would be. My next issue was how to get photographic evidence that the person entering the home is who is signed up for the site. This is solved through the use of camera phones, payments and geolocation of that phone.
-Conclusion:
-The site is currently live, for portfolio purposes. But it is still a work in progress. Creating value for buyers is now the main question the site and business has to solve.
-
-View it at: www.moverable.com !
