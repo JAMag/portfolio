@@ -26,50 +26,71 @@
   display: inline-block;
   p a:hover {
     @extend %link-hover;
+
   }
 };
+
+
+
 
 .contact {
   text-align: center;
   border-style: solid;
-  border-radius: 9px;
+  border-radius: 0px;
   border-color: darkgray;
-  border-width: 2px;
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #form_name {
   text-align: center;
   border-style: solid;
-  border-radius: 9px;
+  border-radius: 0px;
   border-color: darkgray;
   min-width: 33%;
   border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 };
 
 #form_email {
   text-align: center;
   border-style: solid;
-  border-radius: 9px;
+  border-radius: 0px;
   border-color: darkgray;
   min-width: 33%;
   border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 };
 
 #form_message {
   text-align: center;
   border-style: solid;
-  border-radius: 9px;
+  border-radius: 0px;
   border-color: darkgray;
   min-height: 140px;
   min-width: 66%;
   border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 };
 
 #form_button {
   text-align: center;
   border-style: solid;
-  border-radius: 9px;
+  border-radius: 0px;
   border-color: darkgray;
   min-width: 66%;
   border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  transition-duration: 0.3s;
 };
+
+#form_button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
