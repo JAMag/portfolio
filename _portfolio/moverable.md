@@ -1,22 +1,26 @@
 ---
 layout: post
 title: Moverable
-feature-img: "img/bannerdesign1.jpg"
-thumbnail-path: "//i.ytimg.com/vi/LGxxvAuTdmA/sddefault.jpg"
+categories: main
+thumbnail-path: "//i.ytimg.com/vi/FwOvT1JA4mc/hqdefault.jpg"
 short-description: Main portfolio piece.
 
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LGxxvAuTdmA" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/FwOvT1JA4mc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br />
 
+<small>*please note this video tour <strong>has audio</strong>.</small>
+<br />
 
-Summary:
+<strong>Summary:</strong>
 
 Moverable is the main piece of my portfolio. I designed, and developed it. It is a For Sale By Owner real estate website that uses electronic locks and scheduling to allow users to view a house when nobody is home.
 
-Explanation:
+<strong>Explanation:</strong>
 
 I conceived, designed and implemented that site with a tutor's guidance. It is a real estate listing site,
 which allows creation of users, listings, comments, appointments and favorites. It allows for purchases
@@ -36,7 +40,7 @@ My first use of an outside API is with Lockitron's electronic locks. It was a si
 Conclusion:
 The site is currently live, for portfolio purposes. But it is still a work in progress. Creating value for buyers is now the main question the site and business has to solve.
 
-View it here: <a href="http://www.moverable.com" class="external" target="_blank">Moverable</a>
+<strong>View it here:</strong><a href="http://www.moverable.com" class="external" target="_blank"> Moverable</a>
 <br />
 <br />
 <br />
