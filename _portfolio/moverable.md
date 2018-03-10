@@ -22,8 +22,8 @@ Moverable is the main piece of my portfolio. I designed, and developed it. It is
 
 <strong>Explanation:</strong>
 
-I conceived, designed and implemented that site with a tutor's guidance. It is a real estate listing site,
-which allows creation of users, listings, comments, appointments and favorites. It allows for purchases
+I conceived, designed and implemented Moverable. Implementation was with a tutor's guidance. It is a real estate listing site,
+which allows creation of users, listings, comments, appointments, and favorites. It allows for purchases
 using Stripe. It is fully responsive through Bootstrap, and so uses your computer or phone camera
 depending on how the site is accessed. Search has been implemented using ThinkingSphinx, and I'm
 currently trying to implement a Zillow-like map search by incorporating the Google Maps API with
