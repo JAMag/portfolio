@@ -12,7 +12,7 @@ short-description: International Geneology Site
 
 <small>*please note this video tour <strong>is silent</strong>.</small>
 <br />
-Custom responsive WordPress theme using Bootstrap, PHP, Font- Awesome, and Google Fonts for international genealogy society site and blog.
+Custom responsive WordPress theme using Bootstrap, PHP, Font-Awesome, and Google Fonts for international genealogy society site and blog. This is my first use of parallax backgrounds, my first WordPress theme, and my first use of MAMP.
 
 
 <br />
