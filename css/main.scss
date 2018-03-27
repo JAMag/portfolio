@@ -28,6 +28,9 @@
     @extend %link-hover;
 
   }
+  a:hover {
+    border-bottom: solid 1px;
+  }
 };
 
 

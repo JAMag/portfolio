@@ -25,16 +25,18 @@ layout: default
 
     <hr>
     <br>
-    {% for project in site.portfolio limit:7 %}
+    <div class="smaller_project">
+      {% for project in site.portfolio limit:7 %}
 
 
-            <li>
-              <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-              <a href="{{ project.url }}">{{ project.title }}</a>
-              <p>{{ project.short-description }}</p>
-            </li>
+              <li>
+                <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
+                <a href="{{ project.url }}">{{ project.title }}</a>
+                <p>{{ project.short-description }}</p>
+              </li>
 
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
 
 
