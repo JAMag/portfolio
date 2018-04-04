@@ -3,7 +3,7 @@ layout: post
 title: MoveScraper
 
 thumbnail-path: "//i.ytimg.com/vi/nNsowIhk4bQ/sddefault.jpg"
-short-description: Webscraping craigslist.
+short-description: Webscraping
 
 ---
 

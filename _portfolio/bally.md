@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ballykilcline Society
+title: Ballykilcline
 thumbnail-path: "//i.ytimg.com/vi/_-HaR8z6Yig/hqdefault.jpg"
-short-description: International Geneology Site
+short-description: Geneology Site
 
 ---
 

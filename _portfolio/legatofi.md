@@ -3,7 +3,7 @@ layout: post
 title: Legatofi
 
 thumbnail-path: "//i.ytimg.com/vi/Nh-BB_vcAkc/sddefault.jpg"
-short-description: Spotify-like app.
+short-description: Music app
 
 ---
 

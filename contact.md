@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/bannerdesign1.jpg"
+
 ---
 
 
@@ -12,13 +12,14 @@ feature-img: "img/bannerdesign1.jpg"
 
     <br />
     <br />
-    <input type='text' name='name' placeholder='Your Full Name' id='form_name'/>
+    <span>
+    <input type='text' name='name' placeholder='Name ...' id='form_name'/>
+
+    <input type='email' name='email' placeholder='E-mail ...' id='form_email'/>
+    </span>
     <br />
     <br />
-    <input type='email' name='email' placeholder='Your E-mail Address' id='form_email'/>
-    <br />
-    <br />
-    <textarea name='message' placeholder='Write your message ...' id='form_message'></textarea>
+    <textarea name='message' placeholder='Message ...' id='form_message'></textarea>
     <br />
     <br />
     <input type='submit' value='Send Message' id='form_button'/>

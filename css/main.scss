@@ -44,40 +44,39 @@
   border-width: 1px;
   padding-top: 10px;
   padding-bottom: 10px;
+  background-color: #bfc3c3;
+  box-shadow: 0px 15px 10px -15px #111;
 }
 
 #form_name {
-  text-align: center;
+  text-align: left;
   border-style: solid;
   border-radius: 0px;
   border-color: darkgray;
   min-width: 33%;
   border-width: 1px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 10px;
 };
 
 #form_email {
-  text-align: center;
+  text-align: left;
   border-style: solid;
   border-radius: 0px;
   border-color: darkgray;
   min-width: 33%;
   border-width: 1px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 10px;
 };
 
 #form_message {
-  text-align: center;
+  text-align: left;
   border-style: solid;
   border-radius: 0px;
   border-color: darkgray;
   min-height: 140px;
   min-width: 66%;
   border-width: 1px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 10px;
 };
 
 #form_button {
@@ -90,6 +89,8 @@
   padding-top: 10px;
   padding-bottom: 10px;
   transition-duration: 0.3s;
+  box-shadow: 0px 15px 10px -15px #111;
+  border-radius: 9px;
 };
 
 #form_button:hover {

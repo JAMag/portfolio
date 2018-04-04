@@ -3,7 +3,7 @@ layout: post
 title: Marketer
 
 thumbnail-path: "//i.ytimg.com/vi/AXZEqhEylPI/sddefault.jpg"
-short-description: Automated social posts.
+short-description: Auto-post
 
 ---
 

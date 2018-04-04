@@ -36,6 +36,7 @@
 
 // Work listing
 .work {
+  text-align: center;
   h2 {
     text-align: center;
   }
@@ -43,7 +44,7 @@
   background-size: $feature-image-size;
   border-bottom: 1px solid $border-color;
   li {
-    width: 32%;
+    width: 48%;
     margin-right:0.5%;
     margin-left:0.5%;
     margin-bottom: 0;
@@ -70,3 +71,32 @@
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
 }
+
+
+
+
+// hover effect
+
+
+.work img {
+  width: 100%;
+  border: none;
+  outline: none;
+  display: block;
+  position: relative;
+  transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -webkit-transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+}
+.work img:hover {
+  border-radius: 20%;
+  z-index: 9999;
+  box-shadow: 0 0 0 5px rgba(255,255,255,0.4), 0 0 0 10px #bfc3c3;
+}
+
+
+
+// Click effect
+
+

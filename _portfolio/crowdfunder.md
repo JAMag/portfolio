@@ -3,7 +3,7 @@ layout: post
 title: Crowdfunder
 
 thumbnail-path: "//i.ytimg.com/vi/XhzPAHm3Jak/hqdefault.jpg"
-short-description: Kickstarter Clone
+short-description: Social funder
 
 ---
 

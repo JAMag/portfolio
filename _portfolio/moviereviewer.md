@@ -3,7 +3,7 @@ layout: post
 title: MovieReviewer
 
 thumbnail-path: "//i.ytimg.com/vi/a5Xf5_IEMs8/sddefault.jpg"
-short-description: Site to review movies
+short-description: Review movies
 
 ---
 

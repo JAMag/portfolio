@@ -26,12 +26,13 @@ layout: default
     <hr>
     <br>
     <div class="smaller_project">
-      {% for project in site.portfolio limit:7 %}
+      {% for project in site.portfolio limit: 16%}
 
 
               <li>
+                <a href="{{ project.url }}">
                 <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-                <a href="{{ project.url }}">{{ project.title }}</a>
+                {{ project.title }}</a>
                 <p>{{ project.short-description }}</p>
               </li>
 
